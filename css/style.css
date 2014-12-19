@@ -213,3 +213,17 @@ span {
     display: block;
   }
 }
+
+/*
+  map pop up
+*/
+#map-content {
+  min-width: 100px;
+}
+
+/*
+  online classes header
+*/
+#online-header {
+  padding-left: 0;
+}
